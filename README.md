@@ -1,6 +1,6 @@
 ## Hello there
 
 - My name is Ashley Ingenito
-- I'm a junior at the University of Pittsburgh majoring in Computer Science.
+- I'm a senior at the University of Pittsburgh majoring in Computer Science.
 
 
